@@ -1,0 +1,10 @@
+.logout-container{
+    display: flex;
+    justify-content: flex-end;
+    margin:3%
+}
+.button-container{
+    display: flex;
+    justify-content: space-around;
+    margin-top: 15%;
+}
